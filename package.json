@@ -1,0 +1,12 @@
+{
+  "name": "dnd-registration",
+  "version": "1.0.0",
+  "description": "Dinner & Dance Registration System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
